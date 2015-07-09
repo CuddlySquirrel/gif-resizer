@@ -1,5 +1,5 @@
 # GIF file resizer
-Resizing GIF files is complicated. This approach simply reduces the dimentions until they are smaller then the what was given.
+Resizing GIF files is complicated. This approach simply reduces the dimentions until the output file size is smaller then the size given.
 
 ## Example usage:
 Go to the dir where you cloned the code.  Then execute:
