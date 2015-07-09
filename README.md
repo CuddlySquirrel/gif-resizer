@@ -8,4 +8,4 @@ Go to the dir where you cloned the code.  Then execute:
 This command will take the origial ```orig/bridge.gif``` and resize it below 4000000 bytes.  The output file will be named ```resized/bridge.gif```. 
 
 ## Dependencies:
-You must have RMagick correctly installed to use this.  
+You must have RMagick and Ruby correctly installed to use this.  
