@@ -1,7 +1,6 @@
 class ImageTranscoder
 
   require 'rmagick'
-  require 'awesome_print'
 
 	def initialize(input_path, output_path)
     validate_args(input_path, output_path)
